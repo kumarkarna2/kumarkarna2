@@ -1,4 +1,5 @@
-![Header](./header.png)
+![header](https://github.com/kumarkarna2/kumarkarna2/assets/67538142/d601200f-a28b-4910-912f-cf3e39aad3c0)(https://github.com/kumarkarna2/)
+
 <h1 align="center">Hi 👋, I'm Karna Kumar Chaudhary</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
