@@ -1,3 +1,4 @@
+![Header](./header.png)
 <h1 align="center">Hi 👋, I'm Karna Kumar Chaudhary</h1>
 <h3 align="center">A passionate Programmer from India</h3>
 
